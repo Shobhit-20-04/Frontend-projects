@@ -22,5 +22,5 @@ To view these projects locally:
    cd Frontend-projects
    ```
 2. **Open the HTML Files:**
-  •  Navigate to the project directory.
-  •  Open the desired .html file (e.g., coffeecol.html or lemon.html) in your preferred web browser.
+   - Navigate to the project directory.
+   - Open the desired .html file (e.g., coffeecol.html or lemon.html) in your preferred web browser.
